@@ -1,7 +1,7 @@
 # CreditCard_Fraud_Detection
 To detect the fraudulent activities the credit card detection system
 # Dataset
- · The dataset used for this project is collected from Kaggle at https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv
+The dataset used for this project is collected from Kaggle at https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv
 ## Data Pre-Processing
 · Null values and outliers are managed <br/>
 · The columns which helps in fraud detection are identified
